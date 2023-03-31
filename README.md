@@ -15,6 +15,10 @@
 
 ## Portfolio
 
+### Learn JAVASCRIPT with 7 Real World Projects
+From Zero to JavaScript Hero: 100% Hands-On Learning with 7 Real-World Applications. Udemy course by Andre Iacono and Diego Davila <br>
+[GitHub Respoitory](https://www.github.com/stevenrsewell/Learn-JAVASCRIPT-with-7-Real-World-Projects)
+
 ### JavaScript Applications
 Simple applications developed using HTML, CSS, and JavaScript <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
