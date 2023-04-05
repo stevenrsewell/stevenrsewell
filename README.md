@@ -8,9 +8,9 @@
 <br>
 
 ## Skills
-| HTML | CSS | JavaScript | Bootstrap | React | Angular | Vue | GitHub |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-| ![HTML image](https://img.icons8.com/nolan/64/html-filetype.png) | ![CSS image](https://img.icons8.com/nolan/64/css-filetype.png) | ![Javascript image](https://img.icons8.com/nolan/64/javascript.png) | ![Bootstrap image](https://img.icons8.com/color/64/bootstrap.png) | ![React image](https://cdn-icons-png.flaticon.com/64/3459/3459528.png) | ![Angular image](https://img.icons8.com/color/64/angularjs.png) | ![Vue image](https://img.icons8.com/color//vue-js.png) | ![Github image](https://img.icons8.com/3d-fluency/64/github.png) |
+|HTML|CSS|JavaScript|Bootstrap|React|Angular|Vue|GitHub|Photoshop|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| ![HTML image](https://img.icons8.com/nolan/64/html-filetype.png) | ![CSS image](https://img.icons8.com/nolan/64/css-filetype.png) | ![Javascript image](https://img.icons8.com/nolan/64/javascript.png) | ![Bootstrap image](https://img.icons8.com/color/64/bootstrap.png) | ![React image](https://cdn-icons-png.flaticon.com/64/3459/3459528.png) | ![Angular image](https://img.icons8.com/color/64/angularjs.png) | ![Vue image](https://img.icons8.com/color//vue-js.png) | ![Github image](https://img.icons8.com/3d-fluency/64/github.png) | ![Photoshop image](https://img.icons8.com/color/64/adobe-photoshop.png) |
 <br>
 
 ## Education
