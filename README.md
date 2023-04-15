@@ -1,9 +1,9 @@
-# Front End Developer - React, Angular, Vue
+# React, Front End Developer
 
 <ul>
   <li>Proficient in HTML/CSS and JavaScript</li>
   <li>Knowledgeable about modern frameworks and libraries</li>
-  <li>Experience developing and deploying responsive apps with React.js, Angular, and Vue</li>
+  <li>Experience developing and deploying responsive apps with React.js</li>
 </ul> 
 <br>
 
@@ -19,24 +19,16 @@
 
 <br>
 
-## Portfolio
+## Projects
 
 ### Learn JAVASCRIPT with 7 Real World Projects
 From Zero to JavaScript Hero: 100% Hands-On Learning with 7 Real-World Applications - Udemy course <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Learn-JAVASCRIPT-with-7-Real-World-Projects)
 
 ### JavaScript Applications
-Simple applications developed using HTML, CSS, and JavaScript <br>
+Basic applications developed using HTML, CSS, and JavaScript <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
 
 ### JavaScript Password Generator
 Javascript application that generates a random password based on user-chosen criteria. The user has the option to copy the password to the clipboard. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Password-Generator)
-
-### Prehab4All
-React based application developed as part of a group project for Full Stack Certification program <br>
-[GitHub Respoitory](https://github.com/stevenrsewell/Prehab4All)
-
-### Developer Profile Site
-A web developer profile website made as part of Full Stack Developer Certification program<br>
-[GitHub Respoitory](https://github.com/stevenrsewell/Portfolio) | [Updated](https://github.com/stevenrsewell/DeveloperPortfolio)
