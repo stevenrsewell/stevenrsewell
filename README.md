@@ -1,9 +1,9 @@
-# React, Front End Developer
+# Software Engineer, Full Stack Developer
 
 <ul>
   <li>Proficient in HTML/CSS and JavaScript</li>
   <li>Knowledgeable about modern frameworks and libraries</li>
-  <li>Experience developing and deploying responsive apps with React.js</li>
+  <li>Experience developing and deploying responsive apps with different technologies</li>
 </ul> 
 <br>
 
