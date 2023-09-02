@@ -4,6 +4,7 @@
   <li>Proficient in HTML/CSS and JavaScript</li>
   <li>Knowledgeable about modern frameworks and libraries</li>
   <li>Experience developing and deploying responsive apps with different technologies</li>
+  <li>Basic understanding of user experience (UX) and user interface (UI) design principles</li>
 </ul> 
 <br>
 
@@ -20,11 +21,9 @@
 ## Education
 * Certificate in Full Stack Web Development, University of Texas Center for Professional Education, 2020
 * Bachelor of Science degree in Health Sciences, Unversity of South Florida, 2014
-
 <br>
 
 ## Projects
-
 ### Learn JAVASCRIPT with 7 Real World Projects
 From Zero to JavaScript Hero: 100% Hands-On Learning with 7 Real-World Applications - Udemy course <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Learn-JAVASCRIPT-with-7-Real-World-Projects)
