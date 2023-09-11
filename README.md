@@ -2,9 +2,10 @@
 
 <ul>
   <li> Proficiency in front-end development languages (HTML, CSS, JavaScript) and understanding of back-end development to facilitate seamless collaboration</li>
-  <li> Knowledgeable about modern frameworks and libraries, and their function in reusable components, state management, and routing </li>
+  <li> Knowledgeable about modern frameworks and libraries, and their function in creating reusable components, state management, and routing </li>
   <li> Experience developing and deploying responsive apps and applying principles of user experience (UX) and user interface (UI) design </li>
   <li> Skilled in Adobe Creative Cloud applications including Photoshop, InDesign, Illustrator, and XD, for designing and optimizing graphics, layouts, and user interfaces</li>
+  <li> Strong written and verbal communication skills, adept at collaborating with diverse cross-functional teams </li>
 </ul> 
 <br>
 
