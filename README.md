@@ -24,8 +24,11 @@
 <br>
 
 ## Education
-* Certificate in Full Stack Web Development, University of Texas Center for Professional Education, 2020
-* Bachelor of Science degree in Health Sciences, Unversity of South Florida, 2014
+* Certificate in Full Stack Web Development <br>
+**University of Texas Center for Professional Education**
+  <br><br>
+* Bachelor of Science degree in Health Sciences <br>
+**University of South Florida**
 <br>
 
 ## Projects
