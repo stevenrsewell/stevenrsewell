@@ -28,7 +28,7 @@
 
 ### Developer Portfolio
 A responsive software developer portfolio showcasing Technical Skills, Resume, Projects, and About information. <br>
-[GitHub Respoitory](https://www.github.com/stevenrsewell/Developer-Portfolio)
+[GitHub Respoitory](https://github.com/stevenrsewell/DeveloperPortfolio)
 
 ### Photography Website
 A photography portfolio website featuring images captured by me. Website is styled with bootstrap. <br>
