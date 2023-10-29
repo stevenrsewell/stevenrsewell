@@ -12,7 +12,7 @@
 ## Skills
 | HTML | CSS | JavaScript | Bootstrap | GitHub |
 | --- | --- | --- | --- | --- |
-| ![HTML image](https://img.icons8.com/nolan/64/html-filetype.png) | ![CSS image](https://img.icons8.com/nolan/64/css-filetype.png) | ![JavaScript image](https://img.icons8.com/?size=64&id=laVIsJnTtYoj&format=png) | ![Bootstrap image](https://img.icons8.com/color/64/bootstrap.png) | ![GitHub image](https://img.icons8.com/3d-fluency/64/github.png) |
+| ![HTML image](https://img.icons8.com/nolan/64/html-filetype.png) | ![CSS image](https://img.icons8.com/nolan/64/css-filetype.png) | ![JavaScript image](https://img.icons8.com/?size=64&id=laVIsJnTtYoj&format=png) | ![Bootstrap image](https://img.icons8.com/color/64/bootstrap.png) | ![GitHub image](https://img.icons8.com/?size=64&id=52539&format=png) |
 
 | React | Angular | Vue.js | Kotlin | Compose |
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@
 
 | Figma | Adobe CC | MS Office | ChatGPT | WordPress |
 | --- | --- | --- | --- | --- |
-| ![Figma image](https://img.icons8.com/?size=64&id=zfHRZ6i1Wg0U&format=png) | ![CC image](https://cdn.icon-icons.com/icons2/3053/PNG/64/adobe_cc_macos_bigsur_icon_190457.png) | ![Office image](https://img.icons8.com/?size=64&id=wUAGUBXx2syB&format=png) | ![ChatGPT image](https://img.icons8.com/?size=64&id=TUk7vxvtu6hX&format=png) | ![WordPress image](https://img.icons8.com/?size=64&id=aMLZmDlq6SvC&format=png) |
+| ![Figma image](https://img.icons8.com/?size=64&id=zfHRZ6i1Wg0U&format=png) | ![CC image](https://cdn.icon-icons.com/icons2/3053/PNG/64/adobe_cc_macos_bigsur_icon_190457.png) | ![Office image](https://img.icons8.com/?size=64&id=wUAGUBXx2syB&format=png) | ![ChatGPT image](https://img.icons8.com/?size=64&id=TUk7vxvtu6hX&format=png) | ![WordPress image](https://img.icons8.com/?size=64&id=13664&format=png) |
 <br>
 
 ## Education
@@ -40,12 +40,12 @@ A responsive software developer portfolio showcasing Technical Skills, Resume, P
 A photography portfolio website featuring images captured by me. Website is styled with bootstrap. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Photography)
 
-### JavaScript Applications
+### Javascript Applications
 Basic applications developed using HTML, CSS, and JavaScript <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
 
 ### Password Generator
-Javascript application that generates a random password based on user-chosen criteria. The user has the option to copy the password to the clipboard. <br>
+Javascript application that generates a random password based on user-chosen criteria. The user has the option to copy the password to the clipboard. This application was created as part of the Full Stack Developer coding bootcamp I completed at the University of Texas.<br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Password-Generator)
 
 ### Thunder Bolt Report
@@ -55,3 +55,11 @@ A WordPress blog-style website featuring posts that are categorized as News, Edi
 ### Hell Fire Hockey
 A WordPress blog-style website featuring posts that are categorized as News, Editorials, and Game Recaps. Additional features include Google Calendar integration showing the team's upcoming games <br>
 [Live Link](https://hellfirehockey.wordpress.com/)
+
+### Prehab4All
+This React-based application was created as part of the curriculum for the Full Stack Developer coding bootcamp I completed at the University of Texas. I was one of four contributers who designed the application and presented it to our cohort. <br>
+[GitHub Respoitory](https://github.com/stevenrsewell/Prehab4All)
+
+### Food and Brew Finder
+This application was created as part of the curriculum for the Full Stack Developer coding bootcamp I completed at the University of Texas. It uses the Zomato and Open Brewery APIs to display a restaurant based on given critera including location and type of cuisine. I was one of three contributers who designed the application and presented it to our cohort. <br>
+[GitHub Respoitory](https://github.com/danfenichel/Project1)
