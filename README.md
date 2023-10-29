@@ -18,7 +18,7 @@
 | --- | --- | --- | --- | --- |
 | ![React image](https://cdn-icons-png.flaticon.com/64/3459/3459528.png) | ![Angular image](https://img.icons8.com/color/64/angularjs.png) | ![Vue image](https://img.icons8.com/color//vue-js.png) | ![Kotlin image](https://img.icons8.com/?size=64&id=ZoxjA0jZDdFZ&format=png) | ![Compose image](https://img.icons8.com/?size=64&id=17836&format=png) |
 
-| Figma | Adobe CC | MS Office | ChatGPT | WordPress |
+| Figma | Adobe CC | MS Office | ChatGPT | Wordpress |
 | --- | --- | --- | --- | --- |
 | ![Figma image](https://img.icons8.com/?size=64&id=zfHRZ6i1Wg0U&format=png) | ![CC image](https://cdn.icon-icons.com/icons2/3053/PNG/64/adobe_cc_macos_bigsur_icon_190457.png) | ![Office image](https://img.icons8.com/?size=64&id=wUAGUBXx2syB&format=png) | ![ChatGPT image](https://img.icons8.com/?size=64&id=TUk7vxvtu6hX&format=png) | ![WordPress image](https://img.icons8.com/?size=64&id=13664&format=png) |
 <br>
