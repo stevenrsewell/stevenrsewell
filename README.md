@@ -10,17 +10,13 @@
 <br>
 
 ## Skills
-| HTML | CSS | JavaScript | Bootstrap | GitHub |
-| --- | --- | --- | --- | --- |
-| ![HTML image](https://img.icons8.com/nolan/64/html-filetype.png) | ![CSS image](https://img.icons8.com/nolan/64/css-filetype.png) | ![JavaScript image](https://img.icons8.com/?size=64&id=laVIsJnTtYoj&format=png) | ![Bootstrap image](https://img.icons8.com/color/64/bootstrap.png) | ![GitHub image](https://img.icons8.com/?size=64&id=52539&format=png) |
+| HTML | CSS | JavaScript | GitHub | Bootstrap | MS Office | Dev Tools |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![HTML image](https://img.icons8.com/nolan/64/html-filetype.png) | ![CSS image](https://img.icons8.com/nolan/64/css-filetype.png) | ![JavaScript image](https://img.icons8.com/?size=64&id=laVIsJnTtYoj&format=png) | ![GitHub image](https://img.icons8.com/?size=64&id=52539&format=png)| ![Bootstrap image](https://img.icons8.com/?size=64&id=ZMc42tPbG32H&format=png)  | ![Office image](https://img.icons8.com/?size=64&id=wUAGUBXx2syB&format=png) | ![Chrome image](https://img.icons8.com/?size=64&id=43601&format=png) |
 
-| React | Angular | Vue.js | Kotlin | Compose |
-| --- | --- | --- | --- | --- |
-| ![React image](https://cdn-icons-png.flaticon.com/64/3459/3459528.png) | ![Angular image](https://img.icons8.com/color/64/angularjs.png) | ![Vue image](https://img.icons8.com/color//vue-js.png) | ![Kotlin image](https://img.icons8.com/?size=64&id=ZoxjA0jZDdFZ&format=png) | ![Compose image](https://img.icons8.com/?size=64&id=17836&format=png) |
-
-| Figma | Adobe CC | MS Office | ChatGPT | WordPress |
-| --- | --- | --- | --- | --- |
-| ![Figma image](https://img.icons8.com/?size=64&id=zfHRZ6i1Wg0U&format=png) | ![CC image](https://cdn.icon-icons.com/icons2/3053/PNG/64/adobe_cc_macos_bigsur_icon_190457.png) | ![Office image](https://img.icons8.com/?size=64&id=wUAGUBXx2syB&format=png) | ![ChatGPT image](https://img.icons8.com/?size=64&id=TUk7vxvtu6hX&format=png) | ![WordPress image](https://img.icons8.com/?size=64&id=13664&format=png) |
+| React | Angular | Vue.js | Figma | Adobe CC | ChatGPT | WordPress |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![React image](https://cdn-icons-png.flaticon.com/64/3459/3459528.png) | ![Angular image](https://img.icons8.com/color/64/angularjs.png) | ![Vue image](https://img.icons8.com/color//vue-js.png) | ![Figma image](https://img.icons8.com/?size=64&id=zfHRZ6i1Wg0U&format=png) | ![CC image](https://cdn.icon-icons.com/icons2/3053/PNG/64/adobe_cc_macos_bigsur_icon_190457.png) | ![ChatGPT image](https://img.icons8.com/?size=64&id=TUk7vxvtu6hX&format=png) | ![WordPress image](https://img.icons8.com/?size=64&id=13664&format=png) |
 <br>
 
 ## Education
