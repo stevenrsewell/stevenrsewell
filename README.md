@@ -41,7 +41,7 @@ Basic applications developed using HTML, CSS, and JavaScript <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
 
 ### Password Generator
-Javascript application that generates a random password based on user-chosen criteria. The user has the option to copy the password to the clipboard. This application was created as part of the Full Stack Developer coding bootcamp I completed at the University of Texas.<br>
+Javascript application that generates a random password based on user-chosen criteria, and allows the user to copy the password to the clipboard. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Password-Generator)
 
 ### Thunder Bolt Report
