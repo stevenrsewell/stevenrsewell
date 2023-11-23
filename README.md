@@ -36,21 +36,21 @@ A responsive software developer portfolio showcasing Technical Skills, Resume, P
 A photography portfolio website featuring images captured by me. Website is styled with bootstrap. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Photography)
 
-### Javascript Applications
-Basic applications developed using HTML, CSS, and JavaScript <br>
-[GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
+### GELATO-M-G!
+GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts. <br>
+[Live Link](https://gelatomg.stevensewell.com/)
 
 ### Password Generator
 Javascript application that generates a random password based on user-chosen criteria, and allows the user to copy the password to the clipboard. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Password-Generator)
 
+### Javascript Applications
+Javascript applications developed using HTML, CSS, and JavaScript <br>
+[GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
+
 ### Thunder Bolt Report
 A WordPress blog-style website featuring posts that are categorized as News, Editorials, and Game Recaps. Additional features include Google Calendar integration showing the team's upcoming games <br>
 [Live Link](https://lightningstrikesgames.sport.blog/)
-
-### Hell Fire Hockey
-A WordPress blog-style website featuring posts that are categorized as News, Editorials, and Game Recaps. Additional features include Google Calendar integration showing the team's upcoming games <br>
-[Live Link](https://hellfirehockey.wordpress.com/)
 
 ### Prehab4All
 This React-based application was created as part of the curriculum for the Full Stack Developer coding bootcamp I completed at the University of Texas. I was one of four contributers who designed the application and presented it to our cohort. <br>
