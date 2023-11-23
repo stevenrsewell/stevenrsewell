@@ -38,7 +38,7 @@ A photography portfolio website featuring images captured by me. Website is styl
 
 ### GELATO-M-G!
 GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts. <br>
-[Live Link](https://gelatomg.stevensewell.com/)
+[GitHub Respoitory](https://github.com/stevenrsewell/GELATO-M-G)
 
 ### Password Generator
 Javascript application that generates a random password based on user-chosen criteria, and allows the user to copy the password to the clipboard. <br>
