@@ -45,7 +45,7 @@ Javascript application that generates a random password based on user-chosen cri
 [GitHub Respoitory](https://github.com/stevenrsewell/Password-Generator)
 
 ### Javascript Applications
-Javascript applications developed using HTML, CSS, and JavaScript <br>
+Interactive web applications including a To-Do List, Weather App, Digital Clock, Tic Tac Toe game, and Calculator developed using HTML, CSS, and JavaScript. <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
 
 ### Thunder Bolt Report
