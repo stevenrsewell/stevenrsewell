@@ -29,15 +29,15 @@
 ## Projects
 
 ### Developer Portfolio
-A responsive software developer portfolio showcasing Technical Skills, Resume, Projects, and About information. <br>
+A responsive software developer portfolio website showcasing Technical Skills, Resume, Projects, and About information. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/DeveloperPortfolio)
 
 ### Photography Website
-A photography portfolio website featuring images captured by me. Website is styled with bootstrap. <br>
+A photography portfolio website featuring images all captured by me. GLightbox is used to display the image gallery. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Photography)
 
 ### GELATO-M-G!
-GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts. <br>
+GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts. It allows users to select two flavors of Gelato, and will provide information about how well those flavors taste together. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/GELATO-M-G)
 
 ### Password Generator
