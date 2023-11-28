@@ -33,7 +33,7 @@ A responsive software developer portfolio website showcasing Technical Skills, R
 [GitHub Respoitory](https://github.com/stevenrsewell/DeveloperPortfolio)
 
 ### Photography Website
-A photography portfolio website featuring images all captured by me. GLightbox is used to display the image gallery. <br>
+A photography portfolio website featuring images all captured and edited by me. GLightbox is used to display the image gallery. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Photography)
 
 ### GELATO-M-G!
