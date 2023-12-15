@@ -40,6 +40,10 @@ A photography portfolio website featuring images all captured and edited by me. 
 GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts. It allows users to select two flavors of Gelato, and will provide information about how well those flavors taste together. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/GELATO-M-G)
 
+### C U In Health
+Website styled using Google's Materialize CSS library, that has various health and fitness calculators including Body Mass Index, Basal Metabolic Rate, and Total Daily Energy Expenditure. Calculators are coded with Javascript and factor in user inputted information. <br>
+[GitHub Respoitory](https://github.com/stevenrsewell/C-U-In-Health)
+
 ### Password Generator
 Javascript application that generates a random password based on user-chosen criteria, and allows the user to copy the password to the clipboard. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Password-Generator)
