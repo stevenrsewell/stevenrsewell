@@ -44,7 +44,7 @@ GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts.
 Website styled using Google's Materialize CSS library, that has various health and fitness calculators including Body Mass Index, Basal Metabolic Rate, and Total Daily Energy Expenditure. Calculators are coded with Javascript and factor in user inputted information. <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/C-U-In-Health)
 
-### Business
+### Democratize Business
 A website that provides educational business advice and resources for new startups and entrepreneurs.  <br>
 [GitHub Respoitory](https://github.com/stevenrsewell/Business)
 
