@@ -20,11 +20,11 @@
 <br>
 
 ## Education
-* Certificate in Full Stack Web Development <br>
-**University of Texas Center for Professional Education - 2020**
+* Certificate in Full Stack Web Development, 2020<br>
+**University of Texas Center for Professional Education**
   <br><br>
-* Bachelor of Science degree in Health Sciences <br>
-**University of South Florida - 2014**
+* Bachelor of Science degree in Health Sciences, 2014<br>
+**University of South Florida**
 
 ## Projects
 
@@ -42,15 +42,7 @@ GELATO-M-G! is an ice cream and gelato mixology website for dessert enthusiasts.
 
 ### NASA Weather Dashboard
 A weather dashboard app that displays current weather and a 5-day forecast. NASA Astronomy Image of the Day is used as the background image and changes daily. <br>
-[GitHub Respoitory](https://github.com/stevenrsewell/Weather-App)
-
-### C U In Health
-Website styled using Google's Materialize CSS library, that has various health and fitness calculators including Body Mass Index, Basal Metabolic Rate, and Total Daily Energy Expenditure. Calculators are coded with Javascript and factor in user inputted information. <br>
-[GitHub Respoitory](https://github.com/stevenrsewell/C-U-In-Health)
-
-### Business
-A website that provides educational business advice and resources for new startups and entrepreneurs.  <br>
-[GitHub Respoitory](https://github.com/stevenrsewell/Business)
+[GitHub Respoitory](https://github.com/stevenrsewell/NASA-Weather)
 
 ### Password Generator
 Javascript application that generates a random password based on user-chosen criteria, and allows the user to copy the password to the clipboard. <br>
@@ -59,6 +51,10 @@ Javascript application that generates a random password based on user-chosen cri
 ### Javascript Applications
 Interactive web applications including a To-Do List, Weather App, Digital Clock, Tic Tac Toe game, and Calculator developed using HTML, CSS, and JavaScript. <br>
 [GitHub Respoitory](https://www.github.com/stevenrsewell/Javascript-Applications)
+
+### C U In Health
+Website styled using Google's Materialize CSS library, that has various health and fitness calculators including Body Mass Index, Basal Metabolic Rate, and Total Daily Energy Expenditure. Calculators are coded with Javascript and factor in user inputted information. <br>
+[GitHub Respoitory](https://github.com/stevenrsewell/C-U-In-Health)
 
 ### Thunder Bolt Report
 A WordPress blog-style website featuring posts that are categorized as News, Editorials, and Game Recaps. Additional features include Google Calendar integration showing the team's upcoming games <br>
